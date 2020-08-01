@@ -10101,9 +10101,11 @@ textarea.form-control {
 .fs24 {
     font-size: 24px !important;
 }
-.fs20 {font-size: 20px;}
-.fs16 {font-size: 16px;}
-.taC{text-align: center}
+.fs20 {font-size: 20px!important;}
+.fs16 {font-size: 16px!important;}
+.taC{text-align: center!important;}
+.mt35{margin-top:35px}
+.
 caption{display: none}
 .c222 {
     color: #222 !important;
@@ -10183,17 +10185,17 @@ caption{display: none}
 }
 
 .box6 {
-    width: 150px;
+ 
     margin-right: 10px;
     float: left;
     padding: 10px;
     border: 1px solid #eee;
-    height: 60px;
+
     text-align: center;
 }
 
 .box6 img {
-    margin-bottom: 20px;
+   
     width: 70%;
     vertical-align: middle;
 
@@ -10541,7 +10543,8 @@ caption{display: none}
     border: 0;
     width: 50%
 }
-
+.tb_style th{text-align: center}
+.boardType2.juni table{width:100%;}
 .boardType2 .tb_style thead th {
     padding: 10px
 }
@@ -10603,7 +10606,7 @@ caption{display: none}
 }
 
 .img-size4 img {
-    width: 90%
+    width: 80%
 }
 
 .img-box {
@@ -10623,7 +10626,7 @@ caption{display: none}
     line-height: 36px;
     letter-spacing: -0.2px;
     font-weight: 500;
-    line-height: 1.4
+    line-height: 1.2
 }
 .c004 {
     color: #004282 !important;
@@ -10648,4 +10651,10 @@ caption{display: none}
 .taL {
     text-align: left !important;
 }
+.box-left {width:60%;}
+.box-left >img{width:100%}
 .box-right dd{line-height: 1.4}
+.img-w {text-align: center}
+.img-w2{text-align: center}
+.img-w >img{width:650px}
+.img-w2 >img{width:650px}
