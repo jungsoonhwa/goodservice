@@ -10241,7 +10241,7 @@ caption{display: none}
     border-radius: 5px;
     background: #6492a724;
     width: 280px;
-    height: 170px;
+    height: 210px;
     position: absolute
 }
 
@@ -10658,3 +10658,5 @@ caption{display: none}
 .img-w2{text-align: center}
 .img-w >img{width:650px}
 .img-w2 >img{width:650px}
+.zen-de>img{width:40%}
+.axga_ing>img{width:80%}
